@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+   <system_list>
+      <version_file_path>C:\Program Files\kikin\TK\TA\Version.xml</version_file_path>
+      <target_folder>C:\Program Files\kikin\TK\TA</target_folder>
+   </system_list>
+   <system_list>
+      <version_file_path>C:\Program Files\kikin\TK\TA\Version2.xml</version_file_path>
+      <target_folder>C:\Program Files\kikin\TK\TA</target_folder>
+  </system_list>
+</root>
